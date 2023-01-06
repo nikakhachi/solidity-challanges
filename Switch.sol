@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
+// From Alchemy University Ethereum Bootcamp Course #6
+
 contract Switch {
     address public owner;
     address public recipient;
